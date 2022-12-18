@@ -1,0 +1,14 @@
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Users\Asus\Documents\GitHub\Real-State-Catalog-Api\Real_State_Catalog\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
